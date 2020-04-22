@@ -1,0 +1,61 @@
+﻿  Controls.cpp
+  Game.cpp
+  GamePlay.cpp
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(100): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(211): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(225): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(259): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(267): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(287): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(319): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(320): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(321): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(322): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(324): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(325): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(326): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(327): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(329): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(330): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(331): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(332): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(334): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(335): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(336): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(337): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(339): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(340): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(341): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(342): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\gameplay.cpp(567): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  MainMenu.cpp
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\mainmenu.cpp(35): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\mainmenu.cpp(68): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Options.cpp
+  Pause.cpp
+  StartUp.cpp
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(37): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(59): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(63): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(64): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(65): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(73): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(74): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(75): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(83): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(84): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(85): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(89): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(90): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(115): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(116): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aaron\desktop\project3-john-aaron\jointproject\jointproject\startup.cpp(117): warning C4305: 'argument': truncation from 'double' to 'float'
+  Ui.cpp
+  Generating code
+  0 of 391 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  jointProject.vcxproj -> C:\Users\Aaron\Desktop\project3-john-aaron\jointProject\Release\jointProject.exe
